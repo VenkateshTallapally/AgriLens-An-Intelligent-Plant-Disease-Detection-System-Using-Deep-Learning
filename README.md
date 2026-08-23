@@ -1,4 +1,4 @@
-# 🌿 AgriLens: AI-Based Plant Disease Detection System
+# 🌿 AgriLens: An Intelligent Plant Disease Detection System Using Deep Learning
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Railway-success?style=for-the-badge&logo=railway)](https://web-production-fd0d4.up.railway.app)
 [![Python Version](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)](https://www.python.org/)
