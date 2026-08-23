@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 Live Production Application
+### 🌐 Live Production Application-freetrial ended.
 👉 **[https://agrilens.up.railway.app/](https://agrilens.up.railway.app/)**
 
 ---
