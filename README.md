@@ -177,6 +177,38 @@ Open your browser and navigate to:
 
 ---
 
+## 📸 Application Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Home</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/login.png" width="400"></td>
+    <td><img src="screenshots/home.png" width="400"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Home Dashboard</b></td>
+    <td align="center"><b>Disease Prediction</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home2.png" width="400"></td>
+    <td><img src="screenshots/predict.png" width="400"></td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Prediction Result</b></td>
+    <td align="center"><b>Telugu Prediction</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/res.png" width="400"></td>
+    <td><img src="screenshots/telpredict.png" width="400"></td>
+  </tr>
+</table>
+
+
 ## 📈 Future Enhancements
 
 - 📱 Mobile Application (Android / iOS native app)
